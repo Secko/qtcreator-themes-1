@@ -15,7 +15,7 @@ DejaVu Sans Mono font with size 12 was used for these screenshots.
 Install
 --------
 
-Place `.xml` files into `share/qtcreator/styles` or `~/.config/QtProject/qtcreator/styles/` folder.
+Place `.xml` files into `/usr/share/qtcreator/styles` or `~/.config/QtProject/qtcreator/styles/` folder.
 
 Compatibility
 -------------
